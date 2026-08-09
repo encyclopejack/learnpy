@@ -1,1 +1,1 @@
-Okay! Please see the **lesson01.md**!
+Okay! Please click the **lesson01.md**!
