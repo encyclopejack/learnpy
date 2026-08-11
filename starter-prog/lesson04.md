@@ -18,12 +18,11 @@ You import a module by **import *modulename*** and use a function in a module
 
 Here are a table of modules:
 
-name    | classic functions | lowest supported version
+| Module | Classic Functions | Lowest Supported Version |
+|---|---|---|
+| time | asctime | 2.x |
+| math | sqrt, pow, etc. | Since Developed |
+| random | randint, choice, etc. | 2.x |
 
-time    |   asctime, sleep  |      2.7
-
-string  |  asciiletters     |      2.~
-
-math    |  sqrt, pow        |      2.~
 
 **SEE YOU NEXT CLASS!**
