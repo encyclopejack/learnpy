@@ -22,6 +22,12 @@ The *str* method on a number will FORCE it to turn into a “sentence” which w
 So *str(1)* is equal to *"1"*, in a more descriptive way **str is to turn number into 
 string**
 
-Try doing this!
+And you can ALSO do this:
+
+***print(1+int(5))***
+
+This will output ***6***.
+
+Try doing these!
 
 **SEE YOU NEXT CLASS!**
