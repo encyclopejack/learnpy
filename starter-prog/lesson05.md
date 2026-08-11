@@ -9,7 +9,7 @@ Have you tried ***print(1+"This will cause an error!")*** or something similar t
 
 It will probably say:
 
-<color><b>ValueError: can only concentrate 'int' to 'int'(not 'str')</b></color>
+<color><b>TypeError: unsupported operand type(s) for +: 'int' and 'str'</b></color>
 
 Although there is a way to Force Do this, which we’re gonna learn:
 
