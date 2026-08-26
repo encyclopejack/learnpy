@@ -5,4 +5,4 @@ Start with our starter program.
 [HERE](./starter-prog)
 
 You can also see my OWN in-dev programming
-language at  https://mos.qiruijack666.workers.dev/
+language at  http://mos.qiruijack666.workers.dev/
